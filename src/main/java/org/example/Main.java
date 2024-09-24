@@ -6,5 +6,7 @@ public class Main {
         int b = 20;
         int ans = a*b;
         System.out.println(ans);
+
+        System.out.println(SecondClass.name());
     }
 }
